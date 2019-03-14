@@ -1,2 +1,3 @@
 # g0
-Gmail tools for zero inbox people
+
+g0 is a simple script which reads unread mails and prints them.
