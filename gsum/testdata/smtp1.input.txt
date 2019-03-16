@@ -1,0 +1,813 @@
+Delivered-To: booyaboo@gmail.com
+Received: by 2002:aed:23b1:0:0:0:0:0 with SMTP id j46csp14943712qtc;
+        Thu, 14 Mar 2019 15:01:50 -0700 (PDT)
+X-Google-Smtp-Source: APXvYqwY9bkeKtPrqm+9i17vIpnEGFEnDygXs7CJShyhLzj70reFEV6zVqbjJPWuS9bQXtoIS2+u
+X-Received: by 2002:a25:cd06:: with SMTP id d6mr341682ybf.47.1552600910151;
+        Thu, 14 Mar 2019 15:01:50 -0700 (PDT)
+Return-Path: <AnrGsbkw1RRKfyx8DdkDsjA==_1131686948953_0pfkkPTDEeiUONSuUpqEig==@in.constantcontact.com>
+Received: from ccm144.constantcontact.com (ccm144.constantcontact.com. [208.75.123.144])
+        by mx.google.com with ESMTPS id x125si46834ybb.231.2019.03.14.15.01.49
+        for <booyaboo@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 14 Mar 2019 15:01:50 -0700 (PDT)
+Received-SPF: pass (google.com: domain of anrgsbkw1rrkfyx8ddkdsja==_1131686948953_0pfkkptdeeiuonsuupqeig==@in.constantcontact.com designates 208.75.123.144 as permitted sender) client-ip=208.75.123.144;
+Return-Path: <AnrGsbkw1RRKfyx8DdkDsjA==_1131686948953_0pfkkPTDEeiUONSuUpqEig==@in.constantcontact.com>
+Received: from [10.252.0.104] ([10.252.0.104:51263] helo=p2-jbemailsyndicator22.ctct.net) by 10.249.242.20 (envelope-from <AnrGsbkw1RRKfyx8DdkDsjA==_1131686948953_0pfkkPTDEeiUONSuUpqEig==@in.constantcontact.com>) (ecelerity 4.2.38.62370 r(:)) with ESMTP id A4/C0-54804-74FCA8C5; Thu, 14 Mar 2019 18:01:43 -0400
+Message-ID: <1132284090567.1131686948953.1538143110.0.381800JL.2002@scheduler.constantcontact.com>
+Date: Thu, 14 Mar 2019 18:01:43 -0400 (EDT)
+From: Best Western Plus Ocean View Resort <info@oceanviewresort.com>
+Reply-To: info@oceanviewresort.com
+To: booyaboo@gmail.com
+Subject: Spring to the Beach-15% Off
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----=_Part_26549427_1885727318.1552600903504"
+List-Unsubscribe: <https://visitor.constantcontact.com/do?p=un&m=00152-LTInfAnq1q5kcULaDzw%3D%3D&se=001TzAEMBXLKLzY08-LHqigCg%3D%3D&t=001EkZLEx15CcE%3D&llr=zc7y756ab>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-Campaign-Activity-ID: 9eb1ac6e-4c35-4512-9fcb-1f037640ec8c
+X-Channel-ID: d297e490-f4c3-11e8-9438-d4ae529a848a
+X-Mailer: Roving Constant Contact 2012 (http://www.constantcontact.com)
+X-Return-Path-Hint: AnrGsbkw1RRKfyx8DdkDsjA==_1131686948953_0pfkkPTDEeiUONSuUpqEig==@in.constantcontact.com
+X-Roving-Campaignid: 1132284090567
+X-Roving-Id: 1131686948953.1538143110
+X-Feedback-ID: d297e490-f4c3-11e8-9438-d4ae529a848a:9eb1ac6e-4c35-4512-9fcb-1f037640ec8c:1131686948953:CTCT
+X-CTCT-ID: d1775960-f4c3-11e8-92f5-d4ae529a848a
+
+------=_Part_26549427_1885727318.1552600903504
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Trouble viewing this email? View it online here [http://r20.rs6.net/tn.jsp?=
+f=3D0017INX6v6Vp4ZH1LAfHHOkFnK59sjBh10qhKjIeoV8qiWO5C8jwPXleI5ZuxHndlxUXAkz=
+Y4S7Y3oyt5leodiSpHS_B01EQkp5KoC-7WM2QGWRqQEI6SlqLBnyuMqe-jPyjWqNvP0fudRbuFM=
+bPCINS5fT2TtePH9tJ8Pw4_hjdyg=3D&c=3DF5PVeG1KG8TNleT4HWlFbfS9ov0UZu68aT26OVD=
+KNC_AZPhqACI2aA=3D=3D&ch=3DdRm9Um9sAxu9LWs6xyJas9faP3TtEAzstGRX0fkvCAZGpkxG=
+FUy2oA=3D=3D].
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+
+Best Western Plus
+Ocean View Resort
+Seaside, Oregon
+oceanviewresort.com [http://r20.rs6.net/tn.jsp?f=3D0017INX6v6Vp4ZH1LAfHHOkF=
+nK59sjBh10qhKjIeoV8qiWO5C8jwPXleI5ZuxHndlxUa2innJJJd5cTmpDf_FoJrKevf2zV9_fv=
+W68b_Te_vsM9EAWAqQrZdNkI1PU8m8LSMPrq9VPM2LJfJebpTYxuVMosIc7PeZa36ptQOtEeCew=
+=3D&c=3DF5PVeG1KG8TNleT4HWlFbfS9ov0UZu68aT26OVDKNC_AZPhqACI2aA=3D=3D&ch=3Dd=
+Rm9Um9sAxu9LWs6xyJas9faP3TtEAzstGRX0fkvCAZGpkxGFUy2oA=3D=3D]
+* 1-800-234-8439
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+
+Spring
+to the Beach
+for 15% Off
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+
+Click here to view property [http://r20.rs6.net/tn.jsp?f=3D0017INX6v6Vp4ZH1=
+LAfHHOkFnK59sjBh10qhKjIeoV8qiWO5C8jwPXleI5ZuxHndlxU3DJYkTFF-RMcbJ7p-Zvd5S0p=
+Au7sroPFjNLoqtX8v-02qDv268iJ7CP9mLrDWg6s6J269E9S4_b8a-eBevk30z7DZAfOH__ILcl=
+HjuHgu7g9I5VpJudaFQ=3D=3D&c=3DF5PVeG1KG8TNleT4HWlFbfS9ov0UZu68aT26OVDKNC_AZ=
+PhqACI2aA=3D=3D&ch=3DdRm9Um9sAxu9LWs6xyJas9faP3TtEAzstGRX0fkvCAZGpkxGFUy2oA=
+=3D=3D]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+
+*Valid March 17-May 16, 2019.  Subject to availability.  Cannot be used in =
+combination
+with any other discounts.  Must book direct and mention code: SPRING
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+
+Book Direct by Calling 800-234-8439
+Mention Promo Code: SPRING
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+
+Add a S'Mores Package for $25
+
+-Sand Bucket
+
+-Bundle of Firewood
+
+-Marshmallows
+
+-Graham Crackers
+
+-Chocolate Bars
+
+-Roasting Sticks
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+
+Best Western Plus Ocean View Resort
+414 N Prom
+Seaside, Oregon 97138
+800-234-8439
+
+Make sure you earn with every stay, become a Best Western Rewards member
+> More About Rewards [http://r20.rs6.net/tn.jsp?f=3D0017INX6v6Vp4ZH1LAfHHOk=
+FnK59sjBh10qhKjIeoV8qiWO5C8jwPXleI5ZuxHndlxUYYhqu9Mjp8Yf_mAMudxRGmAnV166KKY=
+mr4__u0xh3SiGcK-GGTLHtZ5DBG_2k_lIuDEtB8ef_9GWvS6urYHHljEz3xQrCRWAywM9xroCJC=
+uE9Drze62dfLs8G6Wt5Kpl328oKTR4r0K00wG6PwTveJiewij3IFm3&c=3DF5PVeG1KG8TNleT4=
+HWlFbfS9ov0UZu68aT26OVDKNC_AZPhqACI2aA=3D=3D&ch=3DdRm9Um9sAxu9LWs6xyJas9faP=
+3TtEAzstGRX0fkvCAZGpkxGFUy2oA=3D=3D]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+
+Like us on Facebook [http://r20.rs6.net/tn.jsp?f=3D0017INX6v6Vp4ZH1LAfHHOkF=
+nK59sjBh10qhKjIeoV8qiWO5C8jwPXleLOjTHIiHTsTuTBnREMqVOncFZ22VcS0ezCEcJP9IjKy=
+HPzXTCz83ntezmt74uZPa2QSDhIXAJJ9p3ruPBe2AhpAP4lLbet-O1TcWEJrBX95qCqgNRjEreh=
+SxkUGux8Lr2rF59SvjP10EqNsGK-y4R0=3D&c=3DF5PVeG1KG8TNleT4HWlFbfS9ov0UZu68aT2=
+6OVDKNC_AZPhqACI2aA=3D=3D&ch=3DdRm9Um9sAxu9LWs6xyJas9faP3TtEAzstGRX0fkvCAZG=
+pkxGFUy2oA=3D=3D]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+
+Each Best Western=C2=AE hotel is independently owned and operated. All Best=
+ Western Rewards=C2=AE
+program rules apply; see www.bestwesternrewards.com for terms. Hotel number=
+s are
+ approximate and can fluctuate. Best Western,
+Best Western Rewards and the Best Western marks are service marks or regist=
+ered=20
+service marks of Best Western International, Inc.
+=C2=A92011 Best Western International, Inc. All rights reserved.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~=
+~~~~~
+Forward this email
+http://ui.constantcontact.com/sa/fwtf.jsp?llr=3Dzc7y756ab&m=3D1131686948953=
+&ea=3D$booyaboo@gmail.com$&a=3D1132284090567
+
+This email was sent to booyaboo@gmail.com by info@oceanviewresort=
+.com.
+
+Update Profile/Email Address
+https://visitor.constantcontact.com/do?p=3Doo&m=3D00152-LTInfAnq1q5kcULaDzw=
+%3D%3D&ch=3Dd297e490-f4c3-11e8-9438-d4ae529a848a&ca=3D9eb1ac6e-4c35-4512-9f=
+cb-1f037640ec8c
+
+
+Instant removal with SafeUnsubscribe(TM)
+https://visitor.constantcontact.com/do?p=3Dun&m=3D00152-LTInfAnq1q5kcULaDzw=
+%3D%3D&ch=3Dd297e490-f4c3-11e8-9438-d4ae529a848a&ca=3D9eb1ac6e-4c35-4512-9f=
+cb-1f037640ec8c
+
+
+Privacy Policy:
+http://www.constantcontact.com/legal/service-provider?cc=3Dabout-service-pr=
+ovider
+
+Online Marketing by
+Constant Contact(R)
+www.constantcontact.com
+
+
+
+Best Western Plus Ocean View Resort | 414 N Prom | Seaside | OR | 97138
+------=_Part_26549427_1885727318.1552600903504
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+ =20
+
+  <body topmargin=3D"0" leftmargin=3D"0" rightmargin=3D"0"><!--Copyright (c=
+) 1996-2019 Constant Contact. All rights reserved.  Except as permitted und=
+er a separate
+written agreement with Constant Contact, neither the Constant Contact softw=
+are, nor any content that appears on any Constant Contact site,
+including but not limited to, web pages, newsletters, or templates may be r=
+eproduced, republished, repurposed, or distributed without the
+prior written permission of Constant Contact.  For inquiries regarding repr=
+oduction or distribution of any Constant Contact material, please
+contact legal@constantcontact.com.--><meta name=3D"x-apple-disable-message-=
+reformatting"/><style>@media only screen and (max-width:480px) {td[class~=
+=3D"mobile-hidden"] {display: none !important;}}</style><style>@media only =
+screen and (max-width:480px) {table[class~=3D"HideInMobile"], img[class~=3D=
+"HideInMobile"], td[class~=3D"HideInMobile"], span[class~=3D"HideInMobile"]=
+ {display: none !important;}td[class~=3D"FooterColumn"], table[class~=3D"Fo=
+oterColumn"], span[class~=3D"FooterColumn"] {display:block !important;}.Foo=
+terText {line-height: 1.6 !important;}}</style><style>blockquote .hideInRpl=
+yFwd, .WordSection1 .hideInRplyFwd, blockquote a[href*=3D'https://visitor.c=
+onstantcontact.com/do?p=3Dun&m=3D00152-LTInfAnq1q5kcULaDzw%3D%3D&ch=3Dd297e=
+490-f4c3-11e8-9438-d4ae529a848a&ca=3D9eb1ac6e-4c35-4512-9fcb-1f037640ec8c']=
+, .WordSection1 a[href*=3D'https://visitor.constantcontact.com/do?p=3Dun&m=
+=3D00152-LTInfAnq1q5kcULaDzw%3D%3D&ch=3Dd297e490-f4c3-11e8-9438-d4ae529a848=
+a&ca=3D9eb1ac6e-4c35-4512-9fcb-1f037640ec8c'], #OLK_SRC_BODY_SECTION .hideI=
+nRplyFwd, #OLK_SRC_BODY_SECTION a[href*=3D'https://visitor.constantcontact.=
+com/do?p=3Dun&m=3D00152-LTInfAnq1q5kcULaDzw%3D%3D&ch=3Dd297e490-f4c3-11e8-9=
+438-d4ae529a848a&ca=3D9eb1ac6e-4c35-4512-9fcb-1f037640ec8c'] { display: non=
+e !important; }</style><div style=3D"display:none;display:none !important;c=
+olor:transparent;line-height:1px;max-height:0px;max-width:0px;opacity:0;ove=
+rflow:hidden;visibility:hidden;height:0;width:0;mso-hide:all;font-size:0px;=
+" id=3D"preheaderContent">Share this with Friends & Family</div><div id=3D"=
+rootDiv"><img src=3D"http://r20.rs6.net/on.jsp?a=3D1131686948953&r=3D3&c=3D=
+d1775960-f4c3-11e8-92f5-d4ae529a848a&d=3D1132284090567&ch=3Dd297e490-f4c3-1=
+1e8-9438-d4ae529a848a&ca=3D9eb1ac6e-4c35-4512-9fcb-1f037640ec8c&o=3Dhttps:/=
+/imgssl.constantcontact.com/ui/images1/s.gif" height=3D"1" width=3D"1"/>
+    <div class=3D"OuterBGColor" style=3D"background-color:#466392;" bgcolor=
+=3D"#466392" align=3D"center">
+
+
+      <table class=3D"OuterBGColor" style=3D"background-color:#466392;" bgc=
+olor=3D"#466392" border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=
+=3D"0">
+        <tr>
+          <td class=3D"Body" style=3D"padding-top:15px;padding-left:15px;pa=
+dding-bottom:35px;padding-right:15px;" valign=3D"top" width=3D"100%" rowspa=
+n=3D"1" colspan=3D"1" align=3D"center">
+
+
+            <table class=3D"MainTable MainTableWidth" style=3D"width:630px;=
+align:center;" border=3D"0" width=3D"600" cellspacing=3D"0" cellpadding=3D"=
+0">
+
+
+              <tr>
+
+                <td class=3D"Top MainTableWidth" style=3D"padding:0px 0px 0=
+px 0px;width:630px;" valign=3D"top" width=3D"630" rowspan=3D"1" colspan=3D"=
+1" align=3D"center">
+
+                  <table border=3D"0" width=3D"100%" cellspacing=3D"0" cell=
+padding=3D"0">
+                    <tr>
+                      <td class=3D"TopMargin MarginText" style=3D"padding-t=
+op:0px;color:#FFFFFF;font-size:8pt;font-family:Arial,Helvetica,sans-serif;"=
+ valign=3D"top" rowspan=3D"1" colspan=3D"1" align=3D"center">
+                        Trouble viewing this email? View it online <a class=
+=3D"MarginLink" style=3D"color:#FFFFFF;font-size:8pt;font-family:Arial,Helv=
+etica,sans-serif;" shape=3D"rect" href=3D"http://r20.rs6.net/tn.jsp?f=3D001=
+7INX6v6Vp4ZH1LAfHHOkFnK59sjBh10qhKjIeoV8qiWO5C8jwPXleI5ZuxHndlxUXAkzY4S7Y3o=
+yt5leodiSpHS_B01EQkp5KoC-7WM2QGWRqQEI6SlqLBnyuMqe-jPyjWqNvP0fudRbuFMbPCINS5=
+fT2TtePH9tJ8Pw4_hjdyg=3D&c=3DF5PVeG1KG8TNleT4HWlFbfS9ov0UZu68aT26OVDKNC_AZP=
+hqACI2aA=3D=3D&ch=3DdRm9Um9sAxu9LWs6xyJas9faP3TtEAzstGRX0fkvCAZGpkxGFUy2oA=
+=3D=3D" alt=3D"http://www.bestwestern.com" target=3D"_blank">here</a>.<br/>
+                        <br/>
+                      </td>
+                    </tr>
+                  </table>
+
+                  <table class=3D"InnerBGColor" style=3D"background-color:#=
+FFFFFF;" bgcolor=3D"#FFFFFF" border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0">
+                    <tr>
+                      <td class=3D"MainText" style=3D"color:#002F65;font-si=
+ze:10pt;font-family:Arial,Helvetica,sans-serif;" valign=3D"top" rowspan=3D"=
+1" colspan=3D"1" align=3D"left"><img height=3D"10" vspace=3D"0" border=3D"0=
+" hspace=3D"0" width=3D"10" alt=3D"" src=3D"http://img.constantcontact.com/=
+letters/images/1101116784221/BestWestern_S2_CornerTL.gif"/></td>
+                      <td class=3D"MainText" style=3D"color:#002F65;font-si=
+ze:10pt;font-family:Arial,Helvetica,sans-serif;" valign=3D"top" rowspan=3D"=
+1" colspan=3D"1" align=3D"right"><img height=3D"10" vspace=3D"0" border=3D"=
+0" hspace=3D"0" width=3D"10" alt=3D"" src=3D"http://img.constantcontact.com=
+/letters/images/1101116784221/BestWestern_S2_CornerTR.gif"/></td>
+                    </tr>
+                  </table>
+
+                </td>
+
+              </tr>
+
+
+              <tr>
+                <td class=3D"Middle InnerBGColor MainTableWidth" style=3D"b=
+ackground-color:#FFFFFF;padding:0px 15px 0px 15px;width:630px;" bgcolor=3D"=
+#FFFFFF" valign=3D"top" width=3D"630" rowspan=3D"1" colspan=3D"1" align=3D"=
+center">
+
+
+                  <table class=3D"MinimumFullColumnWidth" style=3D"width:60=
+0px;" border=3D"0" width=3D"1" cellspacing=3D"0" cellpadding=3D"0">
+                    <tr>
+
+                      <td class=3D"FullColumn InnerBGColor" style=3D"backgr=
+ound-color:#FFFFFF;padding:0px 0px 0px 0px;" bgcolor=3D"#FFFFFF" valign=3D"=
+top" width=3D"100%" rowspan=3D"1" colspan=3D"1" align=3D"center">
+
+                        <table border=3D"0" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" id=3D"content_LETTER.BLOCK3"><tr><td class=3D"Logo Main=
+Text" style=3D"padding:8px 10px 10px 10px;color:#002F65;font-size:10pt;font=
+-family:Arial,Helvetica,sans-serif;" valign=3D"top" width=3D"1%" rowspan=3D=
+"1" colspan=3D"1"><a class=3D"imgCaptionAnchor" track=3D"on" href=3D"http:/=
+/r20.rs6.net/tn.jsp?f=3D0017INX6v6Vp4ZH1LAfHHOkFnK59sjBh10qhKjIeoV8qiWO5C8j=
+wPXleI5ZuxHndlxUXAkzY4S7Y3oyt5leodiSpHS_B01EQkp5KoC-7WM2QGWRqQEI6SlqLBnyuMq=
+e-jPyjWqNvP0fudRbuFMbPCINS5fT2TtePH9tJ8Pw4_hjdyg=3D&c=3DF5PVeG1KG8TNleT4HWl=
+FbfS9ov0UZu68aT26OVDKNC_AZPhqACI2aA=3D=3D&ch=3DdRm9Um9sAxu9LWs6xyJas9faP3Tt=
+EAzstGRX0fkvCAZGpkxGFUy2oA=3D=3D" shape=3D"rect" alt=3D"http://www.bestwest=
+ern.com" target=3D"_blank"><img height=3D"126" vspace=3D"0" name=3D"ACCOUNT=
+.IMAGE.8" border=3D"0" hspace=3D"0" width=3D"97" src=3D"https://files.const=
+antcontact.com/9507ccd7701/a202ab3a-4daa-480e-bf5f-2dcb6247cbd9.jpg"/></a><=
+/td><td class=3D"Header MainText" style=3D"padding-top:8px;color:#002F65;pa=
+dding-left:5px;padding-bottom:10px;font-size:10pt;font-family:Arial,Helveti=
+ca,sans-serif;padding-right:0px;" valign=3D"bottom" width=3D"99%" rowspan=
+=3D"1" colspan=3D"1" align=3D"left">
+<div style=3D"color:#001a81;font-size:11pt;"><span class=3D"TitleText1" sty=
+le=3D"color:#001a81;font-size:18pt;font-family:Georgia,Times New Roman,Time=
+s,serif;">Best Western Plus</span><br/></div>
+<div style=3D"color:#001a81;font-size:11pt;"><span class=3D"TitleText1" sty=
+le=3D"color:#001a81;font-size:18pt;font-family:Georgia,Times New Roman,Time=
+s,serif;">Ocean View Resort</span></div>
+<div style=3D"color:#001a81;"><span class=3D"TitleText2" style=3D"color:#00=
+1a81;font-size:12pt;font-family:Georgia,Times New Roman,Times,serif;">Seasi=
+de, Oregon</span><br/></div>
+<div style=3D"color:#001a81;"><span class=3D"TitleText2" style=3D"color:#00=
+1a81;font-size:12pt;font-family:Georgia,Times New Roman,Times,serif;"><br/>=
+</span></div>
+<div class=3D"HeaderInfoText" style=3D"color:#012674;font-weight:bold;font-=
+size:8pt;font-family:Georgia,Times New Roman,Times,serif;" align=3D"right">=
+<a class=3D"HeaderInfoText NoUnderline" style=3D"color:rgb(0, 26, 129);font=
+-weight:bold;text-decoration:none;font-size:8pt;font-family:Georgia,Times N=
+ew Roman,Times,serif;" href=3D"http://r20.rs6.net/tn.jsp?f=3D0017INX6v6Vp4Z=
+H1LAfHHOkFnK59sjBh10qhKjIeoV8qiWO5C8jwPXleI5ZuxHndlxUa2innJJJd5cTmpDf_FoJrK=
+evf2zV9_fvW68b_Te_vsM9EAWAqQrZdNkI1PU8m8LSMPrq9VPM2LJfJebpTYxuVMosIc7PeZa36=
+ptQOtEeCew=3D&c=3DF5PVeG1KG8TNleT4HWlFbfS9ov0UZu68aT26OVDKNC_AZPhqACI2aA=3D=
+=3D&ch=3DdRm9Um9sAxu9LWs6xyJas9faP3TtEAzstGRX0fkvCAZGpkxGFUy2oA=3D=3D" shap=
+e=3D"rect" alt=3D"http://bestwestern.com" target=3D"_blank">oceanviewresort=
+.com</a> <span class=3D"HeaderInfoSeparator" style=3D"color:#001a81;font-we=
+ight:bold;font-size:8pt;font-family:Georgia,Times New Roman,Times,serif;">&=
+nbsp;*&nbsp;</span> <span style=3D"color:#001a81;">1-800-234-8439</span><br=
+/></div>
+</td></tr></table>
+
+                        <table class=3D"BottomBarBGColor" style=3D"backgrou=
+nd-color:#002F65;" bgcolor=3D"#002F65" border=3D"0" width=3D"100%" cellspac=
+ing=3D"0" cellpadding=3D"0">
+                          <tr>
+                            <td class=3D"BottomBarText" style=3D"color:#FFF=
+FFF;font-weight:bold;text-decoration:none;font-size:8pt;font-family:Arial,H=
+elvetica,sans-serif;" valign=3D"top" width=3D"1%" rowspan=3D"1" colspan=3D"=
+1" align=3D"left"><img height=3D"8" vspace=3D"0" border=3D"0" hspace=3D"0" =
+width=3D"8" alt=3D"" src=3D"http://img.constantcontact.com/letters/images/1=
+101116784221/BestWestern_S2_BarCornerTL.gif"/></td>
+                            <td class=3D"BottomBarText" style=3D"color:#FFF=
+FFF;font-weight:bold;text-decoration:none;font-size:8pt;font-family:Arial,H=
+elvetica,sans-serif;" valign=3D"middle" width=3D"98%" rowspan=3D"2" colspan=
+=3D"1" align=3D"center"><img height=3D"8" vspace=3D"0" border=3D"0" hspace=
+=3D"0" width=3D"8" alt=3D"" src=3D"http://img.constantcontact.com/letters/i=
+mages/1101116784221/SpacerImage.gif"/></td>
+                            <td class=3D"BottomBarText" style=3D"color:#FFF=
+FFF;font-weight:bold;text-decoration:none;font-size:8pt;font-family:Arial,H=
+elvetica,sans-serif;" valign=3D"top" width=3D"1%" rowspan=3D"1" colspan=3D"=
+1" align=3D"right"><img height=3D"8" vspace=3D"0" border=3D"0" hspace=3D"0"=
+ width=3D"8" alt=3D"" src=3D"http://img.constantcontact.com/letters/images/=
+1101116784221/BestWestern_S2_BarCornerTR.gif"/></td>
+                          </tr>
+                        </table>
+
+                        <table style=3D"display:table;" border=3D"0" width=
+=3D"100%" cellspacing=3D"0" cellpadding=3D"0" id=3D"content_LETTER.BLOCK5">=
+<tr><td class=3D"SubheaderLeft SubheaderBorderColor MainText" style=3D"bord=
+er-top:2px solid;padding:0px 0px 0px 0px;border-right:2px solid;color:#002F=
+65;font-size:10pt;border-color:#FFFFFF;font-family:Arial,Helvetica,sans-ser=
+if;border-bottom:2px solid;" bordercolor=3D"#FFFFFF" valign=3D"top" width=
+=3D"1%" rowspan=3D"1" colspan=3D"1" align=3D"center"><img height=3D"159" vs=
+pace=3D"0" border=3D"0" name=3D"ACCOUNT.IMAGE.34" hspace=3D"0" width=3D"131=
+" src=3D"https://files.constantcontact.com/9507ccd7701/42b2bf78-8747-4adf-a=
+98e-efe78aed5117.jpg"/></td><td class=3D"SubheaderCenter SubheaderBorderCol=
+or SubtitleBGColor MainText" style=3D"border-top:2px solid;background-color=
+:#7CE6FF;padding:0px 0px 0px 0px;color:#7f34a4;font-size:10pt;border-color:=
+#FFFFFF;font-family:Arial,Helvetica,sans-serif;border-bottom:2px solid;" bg=
+color=3D"#7CE6FF" bordercolor=3D"#FFFFFF" valign=3D"center" width=3D"98%" r=
+owspan=3D"1" colspan=3D"1" align=3D"left">
+<table style=3D"width:181px;height:auto;" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0"><tr><td class=3D"Subtitle SubtitleText3" style=3D"padding:1=
+0px 10px 10px 18px;color:#7f34a4;width:144px;font-size:10pt;font-family:Ari=
+al,Helvetica,sans-serif;height:97px;" valign=3D"center" rowspan=3D"1" colsp=
+an=3D"1" align=3D"left">
+<div style=3D"color:#7f34a4;font-size:28pt;"><span style=3D"font-family:&qu=
+ot;Times New Roman&quot;, Times, serif;"><strong>Spring&nbsp;</strong></spa=
+n></div>
+<div style=3D"color:#7f34a4;"><span style=3D"font-size:16pt;font-family:&qu=
+ot;Times New Roman&quot;, Times, serif;"><strong>to the Beach&nbsp;</strong=
+></span></div>
+<div><span style=3D"color:#7f34a4;font-size:16pt;font-family:&quot;Times Ne=
+w Roman&quot;, Times, serif;"><strong>for 15% Off</strong></span><br/><br/>=
+</div>
+</td></tr></table>
+</td><td class=3D"SubheaderRight SubheaderBorderColor MainText" style=3D"bo=
+rder-top:2px solid;padding:0px 0px 0px 0px;color:#002F65;border-left:2px so=
+lid;font-size:10pt;border-color:#FFFFFF;font-family:Arial,Helvetica,sans-se=
+rif;border-bottom:2px solid;" bordercolor=3D"#FFFFFF" valign=3D"top" width=
+=3D"1%" rowspan=3D"1" colspan=3D"1" align=3D"center"><img class=3D"cc-image=
+-resize" vspace=3D"0" border=3D"0" name=3D"ACCOUNT.IMAGE.36" hspace=3D"0" w=
+idth=3D"275" src=3D"https://files.constantcontact.com/9507ccd7701/fafeb548-=
+c335-4799-8f61-2f0894a7cfa6.jpg"/></td></tr></table>
+
+
+                        <table class=3D"TopBarBGColor" style=3D"background-=
+color:#002F65;display:table;" bgcolor=3D"#002F65" border=3D"0" width=3D"100=
+%" cellspacing=3D"0" cellpadding=3D"0" id=3D"content_LETTER.BLOCK6"><tr><td=
+ class=3D"TopBarText" style=3D"color:#FFFFFF;font-weight:bold;text-decorati=
+on:none;font-size:8pt;font-family:Arial,Helvetica,sans-serif;" valign=3D"bo=
+ttom" width=3D"1%" rowspan=3D"1" colspan=3D"1" align=3D"left"><img height=
+=3D"8" vspace=3D"0" border=3D"0" hspace=3D"0" width=3D"8" src=3D"https://im=
+gssl.constantcontact.com/letters/images/1101116784221/BestWestern_S2_BarCor=
+nerBL.gif"/></td><td class=3D"TopBarText" style=3D"color:#FFFFFF;font-weigh=
+t:bold;text-decoration:none;font-size:8pt;font-family:Arial,Helvetica,sans-=
+serif;" valign=3D"center" width=3D"49%" rowspan=3D"1" colspan=3D"1" align=
+=3D"left">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"To=
+pBarLeft TopBarText" style=3D"padding:7px 12px 6px 12px;color:#FFFFFF;font-=
+weight:bold;text-decoration:none;font-size:8pt;font-family:Arial,Helvetica,=
+sans-serif;height:30px;" valign=3D"center" rowspan=3D"1" colspan=3D"1" alig=
+n=3D"left"><img height=3D"6" vspace=3D"0" border=3D"0" hspace=3D"0" width=
+=3D"6" src=3D"https://imgssl.constantcontact.com/letters/images/11011167842=
+21/BestWestern_S2_Arrow.gif">&nbsp;<a class=3D"TopBarText" style=3D"color:r=
+gb(255, 255, 255);font-weight:bold;text-decoration:none;font-size:8pt;font-=
+family:Arial,Helvetica,sans-serif;" track=3D"on" shape=3D"rect" href=3D"htt=
+p://r20.rs6.net/tn.jsp?f=3D0017INX6v6Vp4ZH1LAfHHOkFnK59sjBh10qhKjIeoV8qiWO5=
+C8jwPXleI5ZuxHndlxU3DJYkTFF-RMcbJ7p-Zvd5S0pAu7sroPFjNLoqtX8v-02qDv268iJ7CP9=
+mLrDWg6s6J269E9S4_b8a-eBevk30z7DZAfOH__ILclHjuHgu7g9I5VpJudaFQ=3D=3D&c=3DF5=
+PVeG1KG8TNleT4HWlFbfS9ov0UZu68aT26OVDKNC_AZPhqACI2aA=3D=3D&ch=3DdRm9Um9sAxu=
+9LWs6xyJas9faP3TtEAzstGRX0fkvCAZGpkxGFUy2oA=3D=3D" linktype=3D"1" alt=3D"ht=
+tp://www.oceanviewresort.com" target=3D"_blank">Click here to view property=
+</a><br/></img></td></tr></table>
+</td><td class=3D"TopBarText" style=3D"color:#FFFFFF;font-weight:bold;text-=
+decoration:none;font-size:8pt;font-family:Arial,Helvetica,sans-serif;" vali=
+gn=3D"center" width=3D"49%" rowspan=3D"1" colspan=3D"1" align=3D"right">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"To=
+pBarRight TaglineText" style=3D"padding:4px 12px 4px 12px;color:#FFD400;fon=
+t-size:14pt;font-family:Times New Roman,Times,serif;height:30px;" valign=3D=
+"center" rowspan=3D"1" colspan=3D"1" align=3D"right">&nbsp;<br/></td></tr><=
+/table>
+</td><td class=3D"TopBarText" style=3D"color:#FFFFFF;font-weight:bold;text-=
+decoration:none;font-size:8pt;font-family:Arial,Helvetica,sans-serif;" vali=
+gn=3D"bottom" width=3D"1%" rowspan=3D"1" colspan=3D"1" align=3D"right"><img=
+ height=3D"8" vspace=3D"0" border=3D"0" hspace=3D"0" width=3D"8" src=3D"htt=
+ps://imgssl.constantcontact.com/letters/images/1101116784221/BestWestern_S2=
+_BarCornerBR.gif"/></td></tr></table>
+
+                        <table style=3D"display:table;" border=3D"0" width=
+=3D"100%" cellspacing=3D"0" cellpadding=3D"0" id=3D"content_LETTER.BLOCK7">=
+<tr><td class=3D"Content MainText" style=3D"padding:0px 18px 0px 18px;color=
+:#002F65;font-size:10pt;font-family:Arial,Helvetica,sans-serif;" valign=3D"=
+top" rowspan=3D"1" colspan=3D"1" align=3D"left"><br/><span style=3D"color:#=
+7f34a4;font-size:11pt;">
+<div><span style=3D"color:#7f34a4;">*V</span><span style=3D"color:#7f34a4;"=
+><span style=3D"color:#7f34a4;">alid</span> March 17-May 16, 2019.&nbsp; Su=
+bject to availability.&nbsp; C<span>annot be used in combination with any o=
+ther discounts</span>.&nbsp; Must book direct and mention code: SPRING</spa=
+n></div>
+</span><br/></td></tr></table>
+
+                       =20
+
+                       =20
+
+                       =20
+
+                       =20
+
+                       =20
+
+                        <table class=3D"TitleText1" style=3D"background-col=
+or:#7ce6ff;border:1px double #000090;color:#012674;display:table;font-size:=
+18pt;font-family:Georgia,Times New Roman,Times,serif;" bgcolor=3D"#7CE6FF" =
+border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" id=3D"conte=
+nt_LETTER.BLOCK8"><tr><td class=3D"Banner" style=3D"padding:5px 18px 20px 1=
+8px;color:#ffffff;" valign=3D"top" rowspan=3D"1" colspan=3D"1" align=3D"cen=
+ter">
+<div style=3D"font-size:8pt;text-align:center;" align=3D"center"><br/></div=
+>
+<div style=3D"color:#7f34a4;font-size:16pt;text-align:center;" align=3D"cen=
+ter">Book Direct by Calling 800-234-8439</div>
+<div style=3D"color:#7f34a4;text-align:center;" align=3D"center">Mention Pr=
+omo Code: SPRING</div>
+</td></tr></table><table border=3D"0" width=3D"100%" cellspacing=3D"0" cell=
+padding=3D"0">
+                          <tr>
+                            <td class=3D"Divider1Padding" style=3D"padding-=
+top:0px;padding-left:0px;padding-bottom:2px;padding-right:0px;" rowspan=3D"=
+1" colspan=3D"1">
+                              <table class=3D"Divider1 Divider1BorderColor"=
+ style=3D"border-top:4px solid #265291;border-color:#265291;height:1px;" he=
+ight=3D"1" border=3D"0" bordercolor=3D"#265291" width=3D"100%" cellspacing=
+=3D"0" cellpadding=3D"0">
+                                <tr>
+                                  <td valign=3D"middle" rowspan=3D"1" colsp=
+an=3D"1" align=3D"center"><img height=3D"1" vspace=3D"0" border=3D"0" hspac=
+e=3D"0" width=3D"100" alt=3D"" src=3D"http://img.constantcontact.com/letter=
+s/images/1101116784221/spacer.gif"/></td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table><table style=3D"background-color:#ffffff;di=
+splay:table;" bgcolor=3D"#FFFFFF" border=3D"0" width=3D"100%" cellspacing=
+=3D"0" cellpadding=3D"0" id=3D"content_LETTER.BLOCK28"><tr><td class=3D"Con=
+tent MainText" style=3D"padding:0px 18px 0px 18px;color:#002F65;font-size:1=
+0pt;font-family:Arial,Helvetica,sans-serif;" valign=3D"top" rowspan=3D"1" c=
+olspan=3D"1" align=3D"left">
+<table style=3D"width:160px;height:auto;" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" align=3D"left"><tr><td class=3D"LeftImage MainText" style=
+=3D"padding-top:3px;color:#002F65;padding-left:0px;width:144px;padding-bott=
+om:0px;font-size:10pt;font-family:Arial,Helvetica,sans-serif;padding-right:=
+12px;height:92px;" valign=3D"top" rowspan=3D"1" colspan=3D"1" align=3D"cent=
+er"><img vspace=3D"0" border=3D"0" name=3D"ACCOUNT.IMAGE.32" hspace=3D"0" w=
+idth=3D"123" src=3D"https://files.constantcontact.com/9507ccd7701/b8013368-=
+c748-447e-bc48-50411e33bc50.jpg"> <br/> <img height=3D"5" vspace=3D"0" bord=
+er=3D"0" hspace=3D"0" width=3D"1" src=3D"https://imgssl.constantcontact.com=
+/letters/images/1101095543144/SpacerImage.gif"><br/></img></img></td></tr><=
+/table>
+<div style=3D"color:#001a81;">&nbsp;<span style=3D"font-size:12pt;">&nbsp;A=
+dd a S'Mores Package for $25</span></div>
+<table style=3D"width:256px;border-width:0px;border-style:none;height:auto;=
+" cellspacing=3D"0" cellpadding=3D"3" align=3D"none"><tr><td style=3D"color=
+:#001a81;font-weight:400;vertical-align:top;width:121px;font-size:13.3333px=
+;font-family:Arial, Helvetica, sans-serif;font-style:normal;height:15px;" r=
+owspan=3D"1" colspan=3D"1">-Sand Bucket</td><td style=3D"color:#001a81;font=
+-weight:400;vertical-align:top;width:121px;font-size:13.3333px;font-family:=
+Arial, Helvetica, sans-serif;font-style:normal;height:15px;" rowspan=3D"1" =
+colspan=3D"1">-Bundle of Firewood</td></tr><tr><td style=3D"color:#001a81;f=
+ont-weight:400;vertical-align:top;width:121px;font-size:13.3333px;font-fami=
+ly:Arial, Helvetica, sans-serif;font-style:normal;height:15px;" rowspan=3D"=
+1" colspan=3D"1">-Marshmallows</td><td style=3D"color:#001a81;font-weight:4=
+00;vertical-align:top;width:121px;font-size:13.3333px;font-family:Arial, He=
+lvetica, sans-serif;font-style:normal;height:15px;" rowspan=3D"1" colspan=
+=3D"1">-Graham Crackers</td></tr><tr><td style=3D"color:#001a81;font-weight=
+:400;vertical-align:top;width:121px;font-size:13.3333px;font-family:Arial, =
+Helvetica, sans-serif;font-style:normal;height:15px;" rowspan=3D"1" colspan=
+=3D"1">-Chocolate Bars</td><td style=3D"color:#001a81;font-weight:400;verti=
+cal-align:top;width:121px;font-size:13.3333px;font-family:Arial, Helvetica,=
+ sans-serif;font-style:normal;height:15px;" rowspan=3D"1" colspan=3D"1">-Ro=
+asting Sticks</td></tr></table>
+<br/></td></tr></table><table border=3D"0" width=3D"100%" cellspacing=3D"0"=
+ cellpadding=3D"0">
+                          <tr>
+                            <td class=3D"Divider1Padding" style=3D"padding-=
+top:0px;padding-left:0px;padding-bottom:2px;padding-right:0px;" rowspan=3D"=
+1" colspan=3D"1">
+                              <table class=3D"Divider1 Divider1BorderColor"=
+ style=3D"border-top:4px solid #265291;border-color:#265291;height:1px;" he=
+ight=3D"1" border=3D"0" bordercolor=3D"#265291" width=3D"100%" cellspacing=
+=3D"0" cellpadding=3D"0">
+                                <tr>
+                                  <td valign=3D"middle" rowspan=3D"1" colsp=
+an=3D"1" align=3D"center"><img height=3D"1" vspace=3D"0" border=3D"0" hspac=
+e=3D"0" width=3D"100" alt=3D"" src=3D"http://img.constantcontact.com/letter=
+s/images/1101116784221/spacer.gif"/></td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table><table border=3D"0" width=3D"100%" cellspac=
+ing=3D"0" cellpadding=3D"0" id=3D"content_LETTER.BLOCK13"><tr><td class=3D"=
+Content MainText" style=3D"padding:0px 18px 0px 18px;color:#002F65;font-siz=
+e:10pt;font-family:Arial,Helvetica,sans-serif;" valign=3D"top" rowspan=3D"1=
+" colspan=3D"1" align=3D"left"><br/><table border=3D"0" width=3D"100%" cell=
+spacing=3D"0" cellpadding=3D"0"><tr><td class=3D"ContactInfoLeft ContactInf=
+oText" style=3D"padding:0px 20px 0px 0px;color:#002F65;font-size:10pt;font-=
+family:Arial,Helvetica,sans-serif;" valign=3D"top" width=3D"48%" rowspan=3D=
+"1" colspan=3D"1" align=3D"left">Best Western Plus Ocean View Resort<br/> 4=
+14 N Prom<br/> Seaside, Oregon 97138<br/> <span class=3D"ContactInfoHighlig=
+htText" style=3D"color:#0086B1;font-size:10pt;font-family:Arial,Helvetica,s=
+ans-serif;">800-234-8439</span><br/></td><td class=3D"ContactInfoRight Cont=
+actInfoBorderColor ContactInfoText" style=3D"padding:0px 20px 0px 20px;colo=
+r:#002F65;border-left:1px solid;font-size:10pt;border-color:#0086B1;font-fa=
+mily:Arial,Helvetica,sans-serif;" bordercolor=3D"#0086B1" valign=3D"top" wi=
+dth=3D"52%" rowspan=3D"1" colspan=3D"1" align=3D"left">Make sure you earn w=
+ith every stay, become a Best Western Rewards member<br/> <img height=3D"10=
+" vspace=3D"0" border=3D"0" hspace=3D"0" width=3D"1" src=3D"https://imgssl.=
+constantcontact.com/letters/images/1101116784221/SpacerImage.gif"><br/> &gt=
+;&nbsp;<a class=3D"MainLink" style=3D"color:#0656B3;text-decoration:underli=
+ne;font-size:10pt;font-family:Arial,Helvetica,sans-serif;" shape=3D"rect" h=
+ref=3D"http://r20.rs6.net/tn.jsp?f=3D0017INX6v6Vp4ZH1LAfHHOkFnK59sjBh10qhKj=
+IeoV8qiWO5C8jwPXleI5ZuxHndlxUYYhqu9Mjp8Yf_mAMudxRGmAnV166KKYmr4__u0xh3SiGcK=
+-GGTLHtZ5DBG_2k_lIuDEtB8ef_9GWvS6urYHHljEz3xQrCRWAywM9xroCJCuE9Drze62dfLs8G=
+6Wt5Kpl328oKTR4r0K00wG6PwTveJiewij3IFm3&c=3DF5PVeG1KG8TNleT4HWlFbfS9ov0UZu6=
+8aT26OVDKNC_AZPhqACI2aA=3D=3D&ch=3DdRm9Um9sAxu9LWs6xyJas9faP3TtEAzstGRX0fkv=
+CAZGpkxGFUy2oA=3D=3D" alt=3D"https://goldcrownclub.bestwestern.com/members/=
+benefits.asp" target=3D"_blank">More About Rewards</a></img></td></tr></tab=
+le>&nbsp;<br/></td></tr></table>
+
+                       =20
+
+                       =20
+
+                       =20
+
+                       =20
+
+                       =20
+
+                       =20
+
+                       =20
+
+                       =20
+
+                       =20
+
+
+                        <table class=3D"BottomBarBGColor" style=3D"backgrou=
+nd-color:#002F65;display:table;" bgcolor=3D"#002F65" border=3D"0" width=3D"=
+100%" cellspacing=3D"0" cellpadding=3D"0" id=3D"content_LETTER.BLOCK22"><tr=
+><td class=3D"BottomBarText" style=3D"color:#FFFFFF;font-weight:bold;text-d=
+ecoration:none;font-size:8pt;font-family:Arial,Helvetica,sans-serif;" valig=
+n=3D"top" width=3D"1%" rowspan=3D"1" colspan=3D"1" align=3D"left"><img heig=
+ht=3D"8" vspace=3D"0" border=3D"0" hspace=3D"0" width=3D"8" src=3D"https://=
+imgssl.constantcontact.com/letters/images/1101116784221/BestWestern_S2_BarC=
+ornerTL.gif"/></td><td class=3D"BottomBarText" style=3D"color:#FFFFFF;font-=
+weight:bold;text-decoration:none;font-size:8pt;font-family:Arial,Helvetica,=
+sans-serif;" valign=3D"center" width=3D"98%" rowspan=3D"2" colspan=3D"1" al=
+ign=3D"center">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"left"><tr>=
+<td class=3D"BottomBar BottomBarText" style=3D"padding:7px 12px 6px 12px;co=
+lor:#FFFFFF;font-weight:bold;text-decoration:none;font-size:8pt;font-family=
+:Arial,Helvetica,sans-serif;height:18px;" valign=3D"center" rowspan=3D"1" c=
+olspan=3D"1"><img vspace=3D"0" border=3D"0" name=3D"ACCOUNT.IMAGE.31" hspac=
+e=3D"0" width=3D"10" src=3D"https://files.constantcontact.com/9507ccd7701/9=
+6b4ffce-fc92-4266-be03-6aacb116a029.png"/></td></tr></table>
+<div style=3D"text-align:left;" align=3D"left">&nbsp;</div>
+<div style=3D"text-align:left;" align=3D"left"><a style=3D"color:rgb(255, 2=
+55, 255);text-decoration:none;" track=3D"on" shape=3D"rect" href=3D"http://=
+r20.rs6.net/tn.jsp?f=3D0017INX6v6Vp4ZH1LAfHHOkFnK59sjBh10qhKjIeoV8qiWO5C8jw=
+PXleLOjTHIiHTsTuTBnREMqVOncFZ22VcS0ezCEcJP9IjKyHPzXTCz83ntezmt74uZPa2QSDhIX=
+AJJ9p3ruPBe2AhpAP4lLbet-O1TcWEJrBX95qCqgNRjErehSxkUGux8Lr2rF59SvjP10EqNsGK-=
+y4R0=3D&c=3DF5PVeG1KG8TNleT4HWlFbfS9ov0UZu68aT26OVDKNC_AZPhqACI2aA=3D=3D&ch=
+=3DdRm9Um9sAxu9LWs6xyJas9faP3TtEAzstGRX0fkvCAZGpkxGFUy2oA=3D=3D" linktype=
+=3D"1" alt=3D"https://www.facebook.com/BWOceanViewResort/" target=3D"_blank=
+">Like us on Facebook</a></div>
+</td><td class=3D"BottomBarText" style=3D"color:#FFFFFF;font-weight:bold;te=
+xt-decoration:none;font-size:8pt;font-family:Arial,Helvetica,sans-serif;" v=
+align=3D"top" width=3D"1%" rowspan=3D"1" colspan=3D"1" align=3D"right"><img=
+ height=3D"8" vspace=3D"0" border=3D"0" hspace=3D"0" width=3D"8" src=3D"htt=
+ps://imgssl.constantcontact.com/letters/images/1101116784221/BestWestern_S2=
+_BarCornerTR.gif"/></td></tr><tr><td class=3D"BottomBarText" style=3D"color=
+:#FFFFFF;font-weight:bold;text-decoration:none;font-size:8pt;font-family:Ar=
+ial,Helvetica,sans-serif;" valign=3D"bottom" width=3D"1%" rowspan=3D"1" col=
+span=3D"1" align=3D"left"><img height=3D"8" vspace=3D"0" border=3D"0" hspac=
+e=3D"0" width=3D"8" src=3D"https://imgssl.constantcontact.com/letters/image=
+s/1101116784221/BestWestern_S2_BarCornerBL.gif"/></td><td class=3D"BottomBa=
+rText" style=3D"color:#FFFFFF;font-weight:bold;text-decoration:none;font-si=
+ze:8pt;font-family:Arial,Helvetica,sans-serif;" valign=3D"bottom" width=3D"=
+1%" rowspan=3D"1" colspan=3D"1" align=3D"right"><img height=3D"8" vspace=3D=
+"0" border=3D"0" hspace=3D"0" width=3D"8" src=3D"https://imgssl.constantcon=
+tact.com/letters/images/1101116784221/BestWestern_S2_BarCornerBR.gif"/></td=
+></tr></table><table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadd=
+ing=3D"0" id=3D"content_LETTER.BLOCK23"><tr><td class=3D"Content SmallText"=
+ style=3D"padding:0px 18px 0px 18px;color:#777777;font-size:8pt;font-family=
+:Arial,Helvetica,sans-serif;" valign=3D"top" rowspan=3D"1" colspan=3D"1" al=
+ign=3D"left"><br/><br/> Each Best Western=C2=AE hotel is independently owne=
+d and operated. All Best Western Rewards=C2=AE program rules apply; see www=
+.bestwesternrewards.com for terms. Hotel numbers are approximate and can fl=
+uctuate. Best Western,<br/> Best Western Rewards and the Best Western marks=
+ are service marks or registered service marks of Best Western Internationa=
+l, Inc.<br/> <br/> =C2=A92011 Best Western International, Inc. All rights r=
+eserved.<br/> <br/></td></tr></table>
+
+                      </td>
+
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+
+              <tr>
+
+                <td class=3D"Bottom MainTableWidth" style=3D"width:630px;" =
+valign=3D"top" width=3D"630" rowspan=3D"1" colspan=3D"1" align=3D"center">
+
+                  <table class=3D"InnerBGColor" style=3D"background-color:#=
+FFFFFF;" bgcolor=3D"#FFFFFF" border=3D"0" width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0">
+                    <tr>
+                      <td class=3D"MainText" style=3D"color:#002F65;font-si=
+ze:10pt;font-family:Arial,Helvetica,sans-serif;" valign=3D"bottom" rowspan=
+=3D"1" colspan=3D"1" align=3D"left"><img height=3D"10" vspace=3D"0" border=
+=3D"0" hspace=3D"0" width=3D"10" alt=3D"" src=3D"http://img.constantcontact=
+.com/letters/images/1101116784221/BestWestern_S2_CornerBL.gif"/></td>
+                      <td class=3D"MainText" style=3D"color:#002F65;font-si=
+ze:10pt;font-family:Arial,Helvetica,sans-serif;" valign=3D"bottom" rowspan=
+=3D"1" colspan=3D"1" align=3D"right"><img height=3D"10" vspace=3D"0" border=
+=3D"0" hspace=3D"0" width=3D"10" alt=3D"" src=3D"http://img.constantcontact=
+.com/letters/images/1101116784221/BestWestern_S2_CornerBR.gif"/></td>
+                    </tr>
+                  </table>
+
+                 =20
+
+                </td>
+
+              </tr>
+            </table>
+
+          </td>
+        </tr>
+
+
+        <tr>
+          <td class=3D"CCFooterBGColor CCFooterTopMargin" style=3D"backgrou=
+nd-color:#FFFFFF;height:10px;" bgcolor=3D"#FFFFFF" valign=3D"top" rowspan=
+=3D"1" colspan=3D"1" align=3D"center"><img height=3D"1" vspace=3D"0" border=
+=3D"0" hspace=3D"0" width=3D"5" alt=3D"" src=3D"http://img.constantcontact.=
+com/letters/images/1101095543144/SpacerImage.gif"/></td>
+        </tr>
+
+      </table>
+
+    </div>
+  <div id=3D"footerContainer" align=3D"center" style=3D"background-color:#f=
+fffff;">
+<table style=3D"background-color:#ffffff;" border=3D"0" width=3D"100%" cell=
+padding=3D"0" cellspacing=3D"0" id=3D"footerPanelWrap">
+<tr>
+<td rowspan=3D"1" colspan=3D"1" align=3D"center">
+
+<table style=3D"background-color:#ffffff;" border=3D"0" width=3D"100%" cell=
+spacing=3D"0" cellpadding=3D"0" id=3D"footerContainer"><tr><td class=3D"Hid=
+eInMobile" rowspan=3D"1" colspan=3D"1"><img height=3D"5" vspace=3D"0" borde=
+r=3D"0" hspace=3D"0" width=3D"1" src=3D"https://imgssl.constantcontact.com/=
+letters/images/sys/S.gif"/></td><td style=3D"background-color:#FFFFFF;" val=
+ign=3D"top" width=3D"610" rowspan=3D"1" colspan=3D"1" align=3D"center"><div=
+ style=3D"margin-left:auto;max-width:610px;margin-right:auto;" align=3D"cen=
+ter"><table style=3D"margin-left:auto;margin-right:auto;" border=3D"0" widt=
+h=3D"100%" cellspacing=3D"0" cellpadding=3D"0"><tr><td style=3D"padding:15p=
+x 10px 15px 10px;" valign=3D"top" width=3D"100%" rowspan=3D"1" colspan=3D"1=
+" align=3D"center"><table style=3D"margin-left:auto;margin-right:auto;" bor=
+der=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0"><tr><td style=
+=3D"padding-bottom:15px;" valign=3D"top" width=3D"100%" rowspan=3D"1" colsp=
+an=3D"1" align=3D"center"><div style=3D"color:#5d5d5d;font-size:13px;font-f=
+amily:Verdana,Geneva,sans-serif;" id=3D"LETTER.PHYSICALADDRESS"><span class=
+=3D"FooterColumn">Best Western Plus Ocean View Resort<span class=3D"HideInM=
+obile">,</span></span><span class=3D"FooterColumn"> 414&nbsp;N&nbsp;Prom<sp=
+an class=3D"HideInMobile">,</span></span><span class=3D"FooterColumn">&nbsp=
+;Seaside<span class=3D"HideInMobile">,</span>&nbsp;OR&nbsp;97138</span></di=
+v></td></tr><tr><td valign=3D"top" width=3D"100%" rowspan=3D"1" colspan=3D"=
+1" align=3D"center"><table border=3D"0" width=3D"100%" cellspacing=3D"0" ce=
+llpadding=3D"0"><tr><td style=3D"padding-bottom:5px;" valign=3D"top" width=
+=3D"100%" rowspan=3D"1" colspan=3D"1" align=3D"center"><div class=3D"Footer=
+Text" style=3D"color:#5d5d5d;font-size:12px;font-family:Verdana,Geneva,sans=
+-serif;line-height:1.4;"><a class=3D"hideInRplyFwd" style=3D"color:#5d5d5d;=
+" shape=3D"rect" href=3D"https://visitor.constantcontact.com/do?p=3Dun&m=3D=
+00152-LTInfAnq1q5kcULaDzw%3D%3D&ch=3Dd297e490-f4c3-11e8-9438-d4ae529a848a&c=
+a=3D9eb1ac6e-4c35-4512-9fcb-1f037640ec8c" target=3D"_blank" id=3D"unsubscri=
+beLink"><span id=3D"unsubscribeLinkText">SafeUnsubscribe&trade;</span> booy=
+aboo@gmail.com</a></div></td></tr></table><table border=3D"0" wid=
+th=3D"100%" cellspacing=3D"0" cellpadding=3D"0"><tr><td valign=3D"top" widt=
+h=3D"100%" rowspan=3D"1" colspan=3D"1" align=3D"center"><div class=3D"Foote=
+rText" style=3D"color:#5d5d5d;font-size:12px;font-family:Verdana,Geneva,san=
+s-serif;line-height:1.4;"><span class=3D"FooterColumn"><a style=3D"color:#5=
+d5d5d;" shape=3D"rect" href=3D"http://ui.constantcontact.com/sa/fwtf.jsp?ll=
+r=3Dzc7y756ab&m=3D1131686948953&ea=3Dbooyaboo%40gmail.com&a=3D113=
+2284090567" target=3D"_blank" id=3D"fwtfLink">Forward this email</a>&nbsp;<=
+span class=3D"HideInMobile">|&nbsp;</span></span><span class=3D"FooterColum=
+n"><a class=3D"hideInRplyFwd" style=3D"color:#5d5d5d;" shape=3D"rect" href=
+=3D"https://visitor.constantcontact.com/do?p=3Doo&m=3D00152-LTInfAnq1q5kcUL=
+aDzw%3D%3D&ch=3Dd297e490-f4c3-11e8-9438-d4ae529a848a&ca=3D9eb1ac6e-4c35-451=
+2-9fcb-1f037640ec8c" target=3D"_blank" id=3D"updateProfileLink">Update Prof=
+ile</a><span class=3D"HideInMobile hideInRplyFwd">&nbsp;|&nbsp;</span></spa=
+n><span class=3D"FooterColumn"><a style=3D"color:#5d5d5d;" shape=3D"rect" h=
+ref=3D"http://www.constantcontact.com/legal/service-provider?cc=3Dabout-ser=
+vice-provider" alt=3D"http://www.constantcontact.com/legal/service-provider=
+?cc=3Dabout-service-provider" target=3D"_blank" id=3D"privacyLink">About ou=
+r service provider</a></span></div></td></tr></table><table border=3D"0" wi=
+dth=3D"100%" cellspacing=3D"0" cellpadding=3D"0"><tr><td style=3D"padding-t=
+op:5px;" valign=3D"top" width=3D"100%" rowspan=3D"1" colspan=3D"1" align=3D=
+"center"><div class=3D"FooterText" style=3D"color:#5d5d5d;font-size:12px;fo=
+nt-family:Verdana,Geneva,sans-serif;">Sent by <a style=3D"color:#5d5d5d;" s=
+hape=3D"rect" href=3D"mailto:info@oceanviewresort.com" target=3D"_blank" id=
+=3D"sentByEmailLink">info@oceanviewresort.com</a> in collaboration with</di=
+v></td></tr></table></td></tr><tr><td style=3D"padding-top:20px;padding-bot=
+tom:20px;" valign=3D"top" width=3D"100%" rowspan=3D"1" colspan=3D"1" align=
+=3D"center"><table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpaddin=
+g=3D"0"><tr><td style=3D"padding-bottom:5px;" valign=3D"top" width=3D"100%"=
+ rowspan=3D"1" colspan=3D"1" align=3D"center"><div><a shape=3D"rect" href=
+=3D"http://www.constantcontact.com/index.jsp?cc=3DBestWestern_S2" target=3D=
+"_blank" id=3D"footerLogoLink"><img border=3D"0" width=3D"180" style=3D"dis=
+play: block; height:auto !important; max-width:100% !important;" alt=3D"Con=
+stant Contact" src=3D"https://imgssl.constantcontact.com/ui/images1/ctct-lo=
+go.png"/></a></div></td></tr><tr><td valign=3D"top" width=3D"100%" rowspan=
+=3D"1" colspan=3D"1" align=3D"center"><table border=3D"0" width=3D"128" cel=
+lspacing=3D"0" cellpadding=3D"0"><tr><td valign=3D"top" width=3D"100%" rows=
+pan=3D"1" colspan=3D"1" align=3D"left"><div style=3D"color:#184f8e;font-siz=
+e:11px;font-family:Verdana,Geneva,sans-serif;"><a style=3D"color:#184f8e;te=
+xt-decoration:none;font-size:11px;font-family:Verdana,Geneva,sans-serif;" s=
+hape=3D"rect" href=3D"http://www.constantcontact.com/index.jsp?cc=3DBestWes=
+tern_S2" target=3D"_blank" id=3D"footerLogoTxtLink">Try it free today</a></=
+div></td></tr></table></td></tr></table></td></tr></table></td></tr></table=
+></div></td><td class=3D"HideInMobile" rowspan=3D"1" colspan=3D"1"><img hei=
+ght=3D"5" vspace=3D"0" border=3D"0" hspace=3D"0" width=3D"1" src=3D"https:/=
+/imgssl.constantcontact.com/letters/images/sys/S.gif"/></td></tr></table>
+</td>
+</tr>
+</table>
+</div></div></body>
+
+
+------=_Part_26549427_1885727318.1552600903504--
