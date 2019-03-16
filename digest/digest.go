@@ -2,24 +2,31 @@
 // Use of this source code is governed by a MIT-style license
 // that can be found in the LICENSE file.
 
-// Package gsum summarizes gmails
-package gsum
+// Package shortmail summarizes emails
+package digest
 
 import (
 	"encoding/base64"
 	"errors"
 	"io/ioutil"
-	"jaytaylor.com/html2text"
+	"github.com/jaytaylor/html2text"
 	"mime"
 	"mime/multipart"
 	"mime/quotedprintable"
 	"net/mail"
 	"regexp"
 	"strings"
+	"unicode"
 )
 
 // Options to configure behavior
 type Options struct {
+	LineLimit int
+	ColLimit int
+	SkipHTML bool
+	PrettyTables bool
+	OmitLinks bool
+	AllowNonLetterLines bool
 }
 
 // Message takes a raw smtp message string and returns a simplified
@@ -85,11 +92,24 @@ func Body(body, contentType, transferEncoding string, opt Options) (string, erro
 		return parseMultipart(body, contentType, opt)
 	}
 
-	if strings.Contains(ct, "text/html") {
-		body = stripHTML(body)
+	if !opt.SkipHTML && strings.Contains(ct, "text/html") {
+		body = stripHTML(body, opt)
 	}
 
-	return stripEmbedded(body), nil
+	body = stripEmbedded(body, opt)
+	if opt.LineLimit > 0 || opt.ColLimit > 0 {
+		lines := strings.Split(body, "\n")
+		if len(lines) > opt.LineLimit {
+			lines = lines[:opt.LineLimit]
+		}
+		for kk, l := range lines {
+			if len(l) > opt.ColLimit {
+				lines[kk] = l[:opt.ColLimit]
+			}
+		}
+		body = strings.Join(lines, "\n")
+	}
+	return body, nil
 }
 
 func parseMultipart(body, ct string, opt Options) (string, error) {
@@ -105,23 +125,16 @@ func parseMultipart(body, ct string, opt Options) (string, error) {
 
 	mr := multipart.NewReader(strings.NewReader(body), boundary)
 	results := []string{}
-	p, err := mr.NextPart()
-	for ; err == nil; p, err = mr.NextPart() {
-		if inner, err := ioutil.ReadAll(p); err == nil {
-			s := string(inner)
-			ct := p.Header.Get("content-type")
-			if !strings.HasPrefix(ct, "text/") {
-				continue
-			}
-			if strings.Contains(ct, "text/html") {
-				s = stripHTML(s)
-			} else {
-				s = stripEmbedded(s)
-			}
-			results = append(results, s)
-			continue
+	for p, err := mr.NextPart(); err == nil; p, err = mr.NextPart() {
+		inner, err := ioutil.ReadAll(p)
+		if err != nil {
+			break
 		}
-		break
+		ct1 := p.Header.Get("content-type")
+		cte := p.Header.Get("conent-transfer-encoding")
+		if s, err := Body(string(inner), ct1, cte, opt); s != "" && err == nil {
+			results = append(results, s)
+		}
 	}
 
 	if mtype == "multipart/alternative" && len(results) > 0 {
@@ -130,15 +143,29 @@ func parseMultipart(body, ct string, opt Options) (string, error) {
 	return strings.Join(results, "\n"), nil
 }
 
-func stripEmbedded(body string) string {
+func stripEmbedded(body string, opt Options) string {
+	result := body
 	if loc := stripEmbeddedRE.FindStringIndex(strings.ToLower(body)); loc != nil {
-		return strings.TrimSpace(body[:loc[0]])
+		result = strings.TrimSpace(body[:loc[0]])
 	}
-	return strings.TrimSpace(body)
+	lines := []string{}
+	for _, l := range strings.Split(result, "\n") {
+		l = strings.TrimSpace(l)
+		if len(l) > 3 && !opt.AllowNonLetterLines {
+			for _, rune := range l {
+				if unicode.IsLetter(rune) {
+					lines = append(lines, l)
+					break
+				}
+			}
+		}
+	}
+	
+	return strings.Join(lines, "\n")
 }
 
-func stripHTML(body string) string {
-	htmlOpt := html2text.Options{}
+func stripHTML(body string, opt Options) string {
+	htmlOpt := html2text.Options{PrettyTables: opt.PrettyTables, OmitLinks: opt.OmitLinks}
 	text, err := html2text.FromString(body, htmlOpt)
 	if err != nil {
 		return err.Error()

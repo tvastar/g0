@@ -6,6 +6,7 @@ package main
 
 import (
 	"encoding/json"
+	"encoding/base64"	
 	"fmt"
 	"io/ioutil"
 	"log"
@@ -20,7 +21,7 @@ import (
 	"google.golang.org/api/gmail/v1"
 
 	"github.com/pkg/browser"
-	"github.com/tvastar/g0/gsum"
+	"github.com/tvastar/g0/digest"
 )
 
 const localPort = ":5555"
@@ -105,12 +106,27 @@ func main() {
 		log.Fatalf("Unable to retrieve labels: %v", err)
 	}
 	fmt.Println(len(r.Messages), "unread messaages")
+	opt := digest.Options{
+		LineLimit: 10,
+		ColLimit: 80,
+		OmitLinks: true,
+	}
+	
 	for _, m := range r.Messages {
-		mm, err := srv.Users.Messages.Get(user, m.Id).Do()
+		mm, err := srv.Users.Messages.Get(user, m.Id).Format("RAW").Do()
 		if err != nil {
 			log.Fatalf("Could not read message", m.Id, err)
 		}
-		fmt.Println(gsum.Summarize(mm, "    ") + "---\n")
+		decoded, err := base64.URLEncoding.DecodeString(mm.Raw)
+		if err != nil {
+			log.Fatalf("Could not decode message", m.Id, err)
+		}
+		
+		digested, err := digest.Message(string(decoded), opt)
+		if err != nil {
+			log.Fatalf("Could not digest message", m.Id, err)
+		}
+		fmt.Println(digested + "\n\n")
 	}
 }
 
