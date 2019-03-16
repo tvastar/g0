@@ -5,8 +5,8 @@
 package main
 
 import (
+	"encoding/base64"
 	"encoding/json"
-	"encoding/base64"	
 	"fmt"
 	"io/ioutil"
 	"log"
@@ -14,6 +14,7 @@ import (
 	"os"
 	"path"
 	"runtime"
+	"strings"
 
 	"golang.org/x/net/context"
 	"golang.org/x/oauth2"
@@ -61,14 +62,12 @@ func getTokenFromWeb(config *oauth2.Config) *oauth2.Token {
 
 // Retrieves a token from a local file.
 func tokenFromFile(file string) (*oauth2.Token, error) {
-	f, err := os.Open(file)
+	f, err := ioutil.ReadFile(file) // nolint
 	if err != nil {
 		return nil, err
 	}
-	defer f.Close()
 	tok := &oauth2.Token{}
-	err = json.NewDecoder(f).Decode(tok)
-	return tok, err
+	return tok, json.NewDecoder(strings.NewReader(string(f))).Decode(tok)
 }
 
 // Saves a token to a file path.
@@ -78,8 +77,8 @@ func saveToken(path string, token *oauth2.Token) {
 	if err != nil {
 		log.Fatalf("Unable to cache oauth token: %v", err)
 	}
-	defer f.Close()
-	json.NewEncoder(f).Encode(token)
+	defer func() { must(f.Close()) }()
+	must(json.NewEncoder(f).Encode(token))
 }
 
 func main() {
@@ -108,10 +107,10 @@ func main() {
 	fmt.Println(len(r.Messages), "unread messaages")
 	opt := digest.Options{
 		LineLimit: 10,
-		ColLimit: 80,
+		ColLimit:  80,
 		OmitLinks: true,
 	}
-	
+
 	for _, m := range r.Messages {
 		mm, err := srv.Users.Messages.Get(user, m.Id).Format("RAW").Do()
 		if err != nil {
@@ -121,7 +120,7 @@ func main() {
 		if err != nil {
 			log.Fatalf("Could not decode message", m.Id, err)
 		}
-		
+
 		digested, err := digest.Message(string(decoded), opt)
 		if err != nil {
 			log.Fatalf("Could not digest message", m.Id, err)
@@ -154,11 +153,17 @@ func getAuthCode(url string) string {
 		}
 	}()
 
-	defer srv.Shutdown(context.TODO())
+	defer func() { must(srv.Shutdown(context.TODO())) }()
 
 	if err := browser.OpenURL(url); err != nil {
 		log.Fatalf("Unable to open browser: %v", err)
 	}
 
 	return <-ch
+}
+
+func must(err error) {
+	if err != nil {
+		panic(err)
+	}
 }

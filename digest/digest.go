@@ -2,14 +2,14 @@
 // Use of this source code is governed by a MIT-style license
 // that can be found in the LICENSE file.
 
-// Package shortmail summarizes emails
+// Package digest summarizes emails
 package digest
 
 import (
 	"encoding/base64"
 	"errors"
-	"io/ioutil"
 	"github.com/jaytaylor/html2text"
+	"io/ioutil"
 	"mime"
 	"mime/multipart"
 	"mime/quotedprintable"
@@ -21,11 +21,11 @@ import (
 
 // Options to configure behavior
 type Options struct {
-	LineLimit int
-	ColLimit int
-	SkipHTML bool
-	PrettyTables bool
-	OmitLinks bool
+	LineLimit           int
+	ColLimit            int
+	SkipHTML            bool
+	PrettyTables        bool
+	OmitLinks           bool
 	AllowNonLetterLines bool
 }
 
@@ -160,7 +160,7 @@ func stripEmbedded(body string, opt Options) string {
 			}
 		}
 	}
-	
+
 	return strings.Join(lines, "\n")
 }
 
