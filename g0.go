@@ -115,16 +115,16 @@ func main() {
 	for _, m := range r.Messages {
 		mm, err := srv.Users.Messages.Get(user, m.Id).Format("RAW").Do()
 		if err != nil {
-			log.Fatalf("Could not read message", m.Id, err)
+			log.Fatal("Could not read message", m.Id, err)
 		}
 		decoded, err := base64.URLEncoding.DecodeString(mm.Raw)
 		if err != nil {
-			log.Fatalf("Could not decode message", m.Id, err)
+			log.Fatal("Could not decode message", m.Id, err)
 		}
 
 		digested, err := digest.Message(string(decoded), opt)
 		if err != nil {
-			log.Fatalf("Could not digest message", m.Id, err)
+			log.Fatal("Could not digest message", m.Id, err)
 		}
 		fmt.Println(digested + "\n\n")
 	}
