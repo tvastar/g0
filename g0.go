@@ -20,6 +20,7 @@ import (
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"
 	"google.golang.org/api/gmail/v1"
+	"google.golang.org/api/option"
 
 	"github.com/pkg/browser"
 	"github.com/tvastar/g0/digest"
@@ -94,7 +95,7 @@ func main() {
 	}
 	client := getClient(config)
 
-	srv, err := gmail.New(client)
+	srv, err := gmail.NewService(context.Background(), option.WithHTTPClient(client))
 	if err != nil {
 		log.Fatalf("Unable to retrieve Gmail client: %v", err)
 	}
@@ -153,7 +154,7 @@ func getAuthCode(url string) string {
 		}
 	}()
 
-	defer func() { must(srv.Shutdown(context.TODO())) }()
+	defer func() { must(srv.Shutdown(context.Background())) }()
 
 	if err := browser.OpenURL(url); err != nil {
 		log.Fatalf("Unable to open browser: %v", err)
