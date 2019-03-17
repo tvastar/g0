@@ -26,16 +26,7 @@ import (
 
 // Digests returns the digests of all unread inbox messages
 func Digests(configFile, tokenFile, localPort string) ([]string, error) {
-	tok, toksrc, err := getClientToken(configFile, tokenFile, localPort)
-	if err != nil {
-		return nil, err
-	}
-
-	defer saveTokenFile(tokenFile, tok)
-
-	opt1 := option.WithScopes(gmail.GmailReadonlyScope)
-	opt2 := option.WithTokenSource(toksrc)
-	srv, err := gmail.NewService(context.Background(), opt1, opt2)
+	srv, err := getService(configFile, tokenFile, localPort)
 	if err != nil {
 		return nil, err
 	}
@@ -73,14 +64,49 @@ func Digests(configFile, tokenFile, localPort string) ([]string, error) {
 	return results, nil
 }
 
-func getClientToken(configFile, tokenFile, localPort string) (*oauth2.Token, oauth2.TokenSource, error) {
+// MarkRead marks all unread inbox messages as read
+func MarkRead(configFile, tokenFile, localPort string) error {
+	srv, err := getService(configFile, tokenFile, localPort)
+	if err != nil {
+		return err
+	}
+
+	user := "me"
+	r, err := srv.Users.Messages.List(user).Q("in:inbox is:unread").Do()
+	if err != nil {
+		return err
+	}
+
+	req := &gmail.BatchModifyMessagesRequest{RemoveLabelIds: []string{"UNREAD"}}
+	for _, m := range r.Messages {
+		req.Ids = append(req.Ids, m.Id)
+	}
+
+	if len(req.Ids) > 0 {
+		return srv.Users.Messages.BatchModify(user, req).Do()
+	}
+	return nil
+}
+
+func getService(configFile, tokenFile, localPort string) (*gmail.Service, error) {
+	toksrc, err := getClientToken(configFile, tokenFile, localPort)
+	if err != nil {
+		return nil, err
+	}
+
+	opt1 := option.WithScopes(gmail.GmailReadonlyScope, gmail.GmailModifyScope)
+	opt2 := option.WithTokenSource(toksrc)
+	return gmail.NewService(context.Background(), opt1, opt2)
+}
+
+func getClientToken(configFile, tokenFile, localPort string) (oauth2.TokenSource, error) {
 	var config *oauth2.Config
 	bytes, err := ioutil.ReadFile(configFile) // nolint
 	if err == nil {
-		config, err = google.ConfigFromJSON(bytes, gmail.GmailReadonlyScope)
+		config, err = google.ConfigFromJSON(bytes, gmail.GmailReadonlyScope, gmail.GmailModifyScope)
 	}
 	if err != nil {
-		return nil, nil, err
+		return nil, err
 	}
 
 	ctx := context.Background()
@@ -91,15 +117,12 @@ func getClientToken(configFile, tokenFile, localPort string) (*oauth2.Token, oau
 		config.RedirectURL = "http://localhost" + localPort
 		authURL := config.AuthCodeURL("state-token", oauth2.AccessTypeOffline)
 		tok, err = config.Exchange(ctx, getAuthCode(authURL, localPort))
+		if err == nil {
+			saveTokenFile(tokenFile, tok)
+		}
 	}
 
-	return tok, config.TokenSource(ctx, tok), err
-}
-
-// MarkRead marks all unread inbox messages as read
-func MarkRead(configFile, tokenFile, localPort string) error {
-	// NYI
-	return nil
+	return config.TokenSource(ctx, tok), err
 }
 
 func saveTokenFile(path string, token *oauth2.Token) {
