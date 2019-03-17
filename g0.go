@@ -2,18 +2,16 @@
 // Use of this source code is governed by a MIT-style license
 // that can be found in the LICENSE file.
 
-package main
+// Package g0 implements a simple gmail library for zero-inbox people.
+package g0
 
 import (
 	"encoding/base64"
 	"encoding/json"
-	"fmt"
 	"io/ioutil"
 	"log"
 	"net/http"
 	"os"
-	"path"
-	"runtime"
 	"strings"
 
 	"golang.org/x/net/context"
@@ -26,86 +24,30 @@ import (
 	"github.com/tvastar/g0/digest"
 )
 
-const localPort = ":5555"
-
-func localFile(name string) string {
-	_, fname, _, _ := runtime.Caller(0)
-	return path.Join(path.Dir(fname), name)
-}
-
-// Retrieve a token, saves the token, then returns the generated client.
-func getClient(config *oauth2.Config) *http.Client {
-	// The file token.json stores the user's access and refresh tokens, and is
-	// created automatically when the authorization flow completes for the first
-	// time.
-	tokFile := localFile(os.Args[1] + ".json")
-	tok, err := tokenFromFile(tokFile)
-	if err != nil {
-		tok = getTokenFromWeb(config)
-		saveToken(tokFile, tok)
-	}
-	return config.Client(context.Background(), tok)
-}
-
-// Request a token from the web, then returns the retrieved token.
-func getTokenFromWeb(config *oauth2.Config) *oauth2.Token {
-	config.RedirectURL = "http://localhost" + localPort
-	authURL := config.AuthCodeURL("state-token", oauth2.AccessTypeOffline)
-
-	authCode := getAuthCode(authURL)
-
-	tok, err := config.Exchange(context.TODO(), authCode)
-	if err != nil {
-		log.Fatalf("Unable to retrieve token from web: %v", err)
-	}
-	return tok
-}
-
-// Retrieves a token from a local file.
-func tokenFromFile(file string) (*oauth2.Token, error) {
-	f, err := ioutil.ReadFile(file) // nolint
+// Digests returns the digests of all unread inbox messages
+func Digests(configFile, tokenFile, localPort string) ([]string, error) {
+	tok, toksrc, err := getClientToken(configFile, tokenFile, localPort)
 	if err != nil {
 		return nil, err
 	}
-	tok := &oauth2.Token{}
-	return tok, json.NewDecoder(strings.NewReader(string(f))).Decode(tok)
-}
 
-// Saves a token to a file path.
-func saveToken(path string, token *oauth2.Token) {
-	fmt.Printf("Saving credential file to: %s\n", path)
-	f, err := os.OpenFile(path, os.O_RDWR|os.O_CREATE|os.O_TRUNC, 0600)
-	if err != nil {
-		log.Fatalf("Unable to cache oauth token: %v", err)
-	}
-	defer func() { must(f.Close()) }()
-	must(json.NewEncoder(f).Encode(token))
-}
+	defer saveTokenFile(tokenFile, tok)
 
-func main() {
-	b, err := ioutil.ReadFile(localFile("credentials.json"))
+	opt1 := option.WithScopes(gmail.GmailReadonlyScope)
+	opt2 := option.WithTokenSource(toksrc)
+	srv, err := gmail.NewService(context.Background(), opt1, opt2)
 	if err != nil {
-		log.Fatalf("Unable to read client secret file: %v", err)
-	}
-
-	// If modifying these scopes, delete your previously saved token.json.
-	config, err := google.ConfigFromJSON(b, gmail.GmailReadonlyScope)
-	if err != nil {
-		log.Fatalf("Unable to parse client secret file to config: %v", err)
-	}
-	client := getClient(config)
-
-	srv, err := gmail.NewService(context.Background(), option.WithHTTPClient(client))
-	if err != nil {
-		log.Fatalf("Unable to retrieve Gmail client: %v", err)
+		return nil, err
 	}
 
 	user := "me"
 	r, err := srv.Users.Messages.List(user).Q("in:inbox is:unread").Do()
 	if err != nil {
-		log.Fatalf("Unable to retrieve labels: %v", err)
+		return nil, err
 	}
-	fmt.Println(len(r.Messages), "unread messaages")
+
+	results := []string{}
+
 	opt := digest.Options{
 		LineLimit: 10,
 		ColLimit:  80,
@@ -115,18 +57,58 @@ func main() {
 	for _, m := range r.Messages {
 		mm, err := srv.Users.Messages.Get(user, m.Id).Format("RAW").Do()
 		if err != nil {
-			log.Fatal("Could not read message", m.Id, err)
+			return nil, err
 		}
 		decoded, err := base64.URLEncoding.DecodeString(mm.Raw)
 		if err != nil {
-			log.Fatal("Could not decode message", m.Id, err)
+			return nil, err
 		}
 
 		digested, err := digest.Message(string(decoded), opt)
 		if err != nil {
-			log.Fatal("Could not digest message", m.Id, err)
+			return nil, err
 		}
-		fmt.Println(digested + "\n\n")
+		results = append(results, digested)
+	}
+	return results, nil
+}
+
+func getClientToken(configFile, tokenFile, localPort string) (*oauth2.Token, oauth2.TokenSource, error) {
+	var config *oauth2.Config
+	bytes, err := ioutil.ReadFile(configFile) // nolint
+	if err == nil {
+		config, err = google.ConfigFromJSON(bytes, gmail.GmailReadonlyScope)
+	}
+	if err != nil {
+		return nil, nil, err
+	}
+
+	ctx := context.Background()
+	tok := &oauth2.Token{}
+	if bytes, err = ioutil.ReadFile(tokenFile); err == nil { // nolint
+		err = json.NewDecoder(strings.NewReader(string(bytes))).Decode(tok)
+	} else {
+		config.RedirectURL = "http://localhost" + localPort
+		authURL := config.AuthCodeURL("state-token", oauth2.AccessTypeOffline)
+		tok, err = config.Exchange(ctx, getAuthCode(authURL, localPort))
+	}
+
+	return tok, config.TokenSource(ctx, tok), err
+}
+
+// MarkRead marks all unread inbox messages as read
+func MarkRead(configFile, tokenFile, localPort string) error {
+	// NYI
+	return nil
+}
+
+func saveTokenFile(path string, token *oauth2.Token) {
+	log.Printf("Saving credential file to: %s\n", path)
+	f, err := os.OpenFile(path, os.O_RDWR|os.O_CREATE|os.O_TRUNC, 0600)
+	must(err)
+	if err == nil {
+		must(json.NewEncoder(f).Encode(token))
+		must(f.Close())
 	}
 }
 
@@ -139,7 +121,7 @@ func (s statusCodeHandler) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 	}
 }
 
-func getAuthCode(url string) string {
+func getAuthCode(url, localPort string) string {
 	ch := make(chan string, 1)
 	srv := &http.Server{Addr: localPort, Handler: statusCodeHandler(ch)}
 
@@ -165,6 +147,6 @@ func getAuthCode(url string) string {
 
 func must(err error) {
 	if err != nil {
-		panic(err)
+		log.Println(err)
 	}
 }
