@@ -22,7 +22,7 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	fmt.Println(len(digests), "unread messages\n")
+	fmt.Println(len(digests), "unread messages")
 	fmt.Println(strings.Join(digests, "\n\n"))
 	if err := g0.MarkRead(configFile, tokenFile, ":5555"); err != nil {
 		panic(err)
